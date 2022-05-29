@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "746316022187",
+    "project_id": "teste-app-extrato",
+    "storage_bucket": "teste-app-extrato.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:746316022187:android:3c0a5a0ceac4d4f74452ee",
+        "android_client_info": {
+          "package_name": "com.teste_app_extrato"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "746316022187-5ed0j1bah2kpndq5pqqtbc440tt0da7m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzfqTmiy_QFKRth1I5EydI_ZxcD_maJjA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "746316022187-5ed0j1bah2kpndq5pqqtbc440tt0da7m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
